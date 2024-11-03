@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kien\\Downloads\\CaKoi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BC761820-84A5-4AE4-A548-FA0E56E93251}|CaKoi.csproj|c:\\users\\kien\\downloads\\cakoi\\controllers\\fishtankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC761820-84A5-4AE4-A548-FA0E56E93251}|CaKoi.csproj|solutionrelative:controllers\\fishtankcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC761820-84A5-4AE4-A548-FA0E56E93251}|CaKoi.csproj|c:\\users\\kien\\downloads\\cakoi\\views\\fishtank\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC761820-84A5-4AE4-A548-FA0E56E93251}|CaKoi.csproj|solutionrelative:views\\fishtank\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC761820-84A5-4AE4-A548-FA0E56E93251}|CaKoi.csproj|c:\\users\\kien\\downloads\\cakoi\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC761820-84A5-4AE4-A548-FA0E56E93251}|CaKoi.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC761820-84A5-4AE4-A548-FA0E56E93251}|CaKoi.csproj|c:\\users\\kien\\downloads\\cakoi\\entities\\fishtank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC761820-84A5-4AE4-A548-FA0E56E93251}|CaKoi.csproj|solutionrelative:entities\\fishtank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC761820-84A5-4AE4-A548-FA0E56E93251}|CaKoi.csproj|c:\\users\\kien\\downloads\\cakoi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC761820-84A5-4AE4-A548-FA0E56E93251}|CaKoi.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC761820-84A5-4AE4-A548-FA0E56E93251}|CaKoi.csproj|c:\\users\\kien\\downloads\\cakoi\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BC761820-84A5-4AE4-A548-FA0E56E93251}|CaKoi.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC761820-84A5-4AE4-A548-FA0E56E93251}|CaKoi.csproj|c:\\users\\kien\\downloads\\cakoi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC761820-84A5-4AE4-A548-FA0E56E93251}|CaKoi.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC761820-84A5-4AE4-A548-FA0E56E93251}|CaKoi.csproj|c:\\users\\kien\\downloads\\cakoi\\wwwroot\\assets\\js\\demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BC761820-84A5-4AE4-A548-FA0E56E93251}|CaKoi.csproj|solutionrelative:wwwroot\\assets\\js\\demo.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC761820-84A5-4AE4-A548-FA0E56E93251}|CaKoi.csproj|c:\\users\\kien\\downloads\\cakoi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC761820-84A5-4AE4-A548-FA0E56E93251}|CaKoi.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC761820-84A5-4AE4-A548-FA0E56E93251}|CaKoi.csproj|c:\\users\\kien\\downloads\\cakoi\\models\\formloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC761820-84A5-4AE4-A548-FA0E56E93251}|CaKoi.csproj|solutionrelative:models\\formloginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC761820-84A5-4AE4-A548-FA0E56E93251}|CaKoi.csproj|c:\\users\\kien\\downloads\\cakoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC761820-84A5-4AE4-A548-FA0E56E93251}|CaKoi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC761820-84A5-4AE4-A548-FA0E56E93251}|CaKoi.csproj|c:\\users\\kien\\downloads\\cakoi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BC761820-84A5-4AE4-A548-FA0E56E93251}|CaKoi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FishTank.cs",
+              "DocumentMoniker": "C:\\Users\\Kien\\Downloads\\CaKoi\\Entities\\FishTank.cs",
+              "RelativeDocumentMoniker": "Entities\\FishTank.cs",
+              "ToolTip": "C:\\Users\\Kien\\Downloads\\CaKoi\\Entities\\FishTank.cs",
+              "RelativeToolTip": "Entities\\FishTank.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T10:24:28.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "demo.js",
+              "DocumentMoniker": "C:\\Users\\Kien\\Downloads\\CaKoi\\wwwroot\\assets\\js\\demo.js",
+              "RelativeDocumentMoniker": "wwwroot\\assets\\js\\demo.js",
+              "ToolTip": "C:\\Users\\Kien\\Downloads\\CaKoi\\wwwroot\\assets\\js\\demo.js",
+              "RelativeToolTip": "wwwroot\\assets\\js\\demo.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-03T09:38:10.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kien\\Downloads\\CaKoi\\Views\\FishTank\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\FishTank\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kien\\Downloads\\CaKoi\\Views\\FishTank\\Index.cshtml",
+              "RelativeToolTip": "Views\\FishTank\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T09:34:51.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FishTankController.cs",
+              "DocumentMoniker": "C:\\Users\\Kien\\Downloads\\CaKoi\\Controllers\\FishTankController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FishTankController.cs",
+              "ToolTip": "C:\\Users\\Kien\\Downloads\\CaKoi\\Controllers\\FishTankController.cs",
+              "RelativeToolTip": "Controllers\\FishTankController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T09:34:14.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kien\\Downloads\\CaKoi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Kien\\Downloads\\CaKoi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T09:32:21.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kien\\Downloads\\CaKoi\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Kien\\Downloads\\CaKoi\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T09:02:55.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kien\\Downloads\\CaKoi\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Kien\\Downloads\\CaKoi\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T08:35:30.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kien\\Downloads\\CaKoi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Kien\\Downloads\\CaKoi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T08:25:30.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormLoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Kien\\Downloads\\CaKoi\\Models\\FormLoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\FormLoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Kien\\Downloads\\CaKoi\\Models\\FormLoginViewModel.cs",
+              "RelativeToolTip": "Models\\FormLoginViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:18:35.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Kien\\Downloads\\CaKoi\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Kien\\Downloads\\CaKoi\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:17:45.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Kien\\Downloads\\CaKoi\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Kien\\Downloads\\CaKoi\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAIwAkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:06:36.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kien\\Downloads\\CaKoi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Kien\\Downloads\\CaKoi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T07:46:56.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
